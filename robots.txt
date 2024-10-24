@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gevatugu.github.io/sitemap/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/uTe/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/NQn/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/XnI/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/yLT/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/imf/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/hXU/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/Umd/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/eJK/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/Pqx/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/xWX/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/KTV/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/mgI/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/peY/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/alM/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/uAg/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/rOm/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/cWA/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/dmL/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/NhI/sitemap_index.gevatugu
+Sitemap: https://gevatugu.github.io/JsG/sitemap_index.gevatugu
